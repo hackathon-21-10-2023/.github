@@ -1,17 +1,22 @@
 # Хакатон [MIET Hack](https://vk.com/miethack) 21.10.2023
 
 ## Кейс от [Гринсайт](https://greensight.ru/)
-[Markdown](/profile/task.md)
+[PDF](/profile/task.pdf)
+
+Разработка системы отзывов по сотрудникам компании.  
+  
+Общее описание: внутри компании в разное время требуется получение и обработка отзывов по работе сотрудников. Во время стажировки и испытательного срока руководителю отдела требуется получить обратную связь от куратора и других коллег по работе сотрудника. Сотрудник в процессе работы может самостоятельно запросить фидбек от коллег по себе. Все отзывы необходимо каким-то образом собрать и проанализировать.  
+  
+Задача: необходимо спроектировать и реализовать приложение для сбора и анализа отзывов по сотрудникам.
+
 
 ## Решение
 
-![1](https://github.com/hackathon-21-10-2023/.github/assets/31863181/4df59022-7d78-4f49-9ec6-58252ab36a0f)
-![2](https://github.com/hackathon-21-10-2023/.github/assets/31863181/29782c70-5e6b-45bd-b628-af68e4522702)
-![3](https://github.com/hackathon-21-10-2023/.github/assets/31863181/c0feb742-3edd-43bf-bd00-b92bd074cf87)
-![4](https://github.com/hackathon-21-10-2023/.github/assets/31863181/98b6a98e-408a-4b3d-a40e-68a2a9a14593)
-![5](https://github.com/hackathon-21-10-2023/.github/assets/31863181/2d97f1bf-5506-4629-a7ea-b45cef84837e)
-![6](https://github.com/hackathon-21-10-2023/.github/assets/31863181/516a3dc7-ac6c-4287-a0d8-0d32cd13c3e7)
-
+![hac_page-0001](https://github.com/hackathon-21-10-2023/.github/assets/31863181/66e9cebb-b242-4d83-a841-a169661bda91)
+![hac_page-0002](https://github.com/hackathon-21-10-2023/.github/assets/31863181/15ee763b-a8ac-4fe7-ae64-8479a2e134bd)
+![hac_page-0003](https://github.com/hackathon-21-10-2023/.github/assets/31863181/c07394cf-d2ca-4984-a5bb-991d1967f9e3)
+![hac_page-0004](https://github.com/hackathon-21-10-2023/.github/assets/31863181/8c7acc81-e513-42df-b5a0-fd3c5d00ff4e)
+![hac_page-0005](https://github.com/hackathon-21-10-2023/.github/assets/31863181/a2836988-d28d-4fce-8912-f2119ca2310c)
 
 https://github.com/hackathon-21-10-2023/.github/assets/31863181/23914621-227d-4f17-ace4-8948bb6c051d
 
